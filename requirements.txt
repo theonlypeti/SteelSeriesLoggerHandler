@@ -1,0 +1,3 @@
+coloredlogs
+requests
+nextcord # only for color names to color values lol
